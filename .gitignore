@@ -1,0 +1,5 @@
+__pycache__
+mfeat
+*.tar
+*.pkl
+*.zip
